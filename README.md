@@ -1,4 +1,4 @@
-## Installation d'un environnement virtuel Python sur Gnu/Linux ( Pipenv )
+## Installation d'un environnement virtuel Python sur Linux ( Pipenv )
 ---
 - Mise à jour Pip  
 `pip install --upgrade pip`
